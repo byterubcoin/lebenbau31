@@ -1,4 +1,4 @@
-// new_lebenbau
+// new_Lebenbau31
 document.addEventListener('wpcf7submit', function(event) {
     if ('4116' == event.detail.contactFormId) {
         yaCounter25154291.reachGoal('konsultaciya-header');
@@ -26,7 +26,7 @@ document.addEventListener('wpcf7submit', function(event) {
     }
 
 
-    //https://lebenbau.ru/oknavkvartiru/
+    //https://Lebenbau31.ru/oknavkvartiru/
     if ('4329' == event.detail.contactFormId) {
         if (location.href.indexOf('cottages') > 1) yaCounter25154291.reachGoal('raschet-okna-dlya-kottedzhej');
         ga('send', 'event', 'raschet-okna-dlya-kottedzhej', 'submit');
@@ -445,7 +445,7 @@ $(document).ready(function() {
         setTimeout(window.location.href = params._url, 1000);
         /*
         $.ajax({
-            url: '/wp-content/themes/lebenbau/parts/header-php.php',
+            url: '/wp-content/themes/Lebenbau31/parts/header-php.php',
             data: {
                 confirm1: 'yes',
             },
@@ -485,7 +485,7 @@ $(document).ready(function() {
             return true;
         }
         if ($('#pagecityVar').hasClass('gohome')) {
-            window.location.href = 'https://lebenbau.ru/';
+            window.location.href = 'https://Lebenbau31.ru/';
             return true;
         }
         */
@@ -556,7 +556,7 @@ window.onload = init;
 //         var $form = $(this);
 //         $.ajax({
 //             type: "POST",
-//             url: 'https://lebenbau.ru/crm_ramex/gog.php',
+//             url: 'https://Lebenbau31.ru/crm_ramex/gog.php',
 //             data: $form.serialize()
 //         }).done(function() {
 //             console.log('success');
@@ -569,14 +569,14 @@ window.onload = init;
 
 // AFter form success go to thanks page
 document.addEventListener('wpcf7mailsent', function(event) {
-    location = 'https://lebenbau.ru/thanks_page/';
+    location = 'https://Lebenbau31.ru/thanks_page/';
 }, false);
 
 // insert SMS text, insert EmailJS
 $(document).ready(function() {
     var smstext = $('.smsval').data('val');
     $('.smstext').val(smstext);
-    $('.email-js').val('belgorod@lebenbau.ru');
+    $('.email-js').val('torg31@ya.ru');
 });
 
 // insert region to FORM FiELD - siteregion 

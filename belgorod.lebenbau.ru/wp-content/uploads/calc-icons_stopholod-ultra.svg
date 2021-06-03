@@ -6,8 +6,8 @@
 	@font-face {
     font-family: 'MyriadProBoldCond';
     font-display: swap;
-    src: url('https://lebenbau.ru/wp-content/themes/lebenbau/fonts/MyriadProBoldCond.eot');
-    src: url('https://lebenbau.ru/wp-content/themes/lebenbau/fonts/MyriadProBoldCond.eot') format('embedded-opentype'), url('https://lebenbau.ru/wp-content/themes/lebenbau/fonts/MyriadProBoldCond.woff2') format('woff2'), url('https://lebenbau.ru/wp-content/themes/lebenbau/fonts/MyriadProBoldCond.woff') format('woff'), url('https://lebenbau.ru/wp-content/themes/lebenbau/fonts/MyriadProBoldCond.ttf') format('truetype'), url('https://lebenbau.ru/wp-content/themes/lebenbau/fonts/MyriadProBoldCond.svg#MyriadProBoldCond') format('svg');
+    src: url('https://Lebenbau31.ru/wp-content/themes/Lebenbau31/fonts/MyriadProBoldCond.eot');
+    src: url('https://Lebenbau31.ru/wp-content/themes/Lebenbau31/fonts/MyriadProBoldCond.eot') format('embedded-opentype'), url('https://Lebenbau31.ru/wp-content/themes/Lebenbau31/fonts/MyriadProBoldCond.woff2') format('woff2'), url('https://Lebenbau31.ru/wp-content/themes/Lebenbau31/fonts/MyriadProBoldCond.woff') format('woff'), url('https://Lebenbau31.ru/wp-content/themes/Lebenbau31/fonts/MyriadProBoldCond.ttf') format('truetype'), url('https://Lebenbau31.ru/wp-content/themes/Lebenbau31/fonts/MyriadProBoldCond.svg#MyriadProBoldCond') format('svg');
 	}
 	.st0{fill:#FFFFFF;stroke:#000333;stroke-width:2;stroke-miterlimit:10;}
 	.st1{fill:#1056C6;}
