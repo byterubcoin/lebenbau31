@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 70 70" style="enable-background:new 0 0 70 70;" xml:space="preserve">
+<style type="text/css">
+	@font-face {
+    font-family: 'MyriadProBoldCond';
+    font-display: swap;
+    src: url('https://lebenbau.ru/wp-content/themes/lebenbau/fonts/MyriadProBoldCond.eot');
+    src: url('https://lebenbau.ru/wp-content/themes/lebenbau/fonts/MyriadProBoldCond.eot') format('embedded-opentype'), url('https://lebenbau.ru/wp-content/themes/lebenbau/fonts/MyriadProBoldCond.woff2') format('woff2'), url('https://lebenbau.ru/wp-content/themes/lebenbau/fonts/MyriadProBoldCond.woff') format('woff'), url('https://lebenbau.ru/wp-content/themes/lebenbau/fonts/MyriadProBoldCond.ttf') format('truetype'), url('https://lebenbau.ru/wp-content/themes/lebenbau/fonts/MyriadProBoldCond.svg#MyriadProBoldCond') format('svg');
+	}
+	.st0{fill:#FFFFFF;stroke:#000333;stroke-width:2;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#FF8300;stroke-width:2;stroke-miterlimit:10;}
+	.st2{fill:#FFFFFF;stroke:#FF8300;stroke-width:2;stroke-miterlimit:10;}
+	.st3{fill:#FF8300;}
+	.st4{fill:#000333;}
+	.st5{font-family:MyriadProBoldCond,Arial,sans-serif;font-weight:900;}
+	.st6{font-size:9.9253px;}
+</style>
+<g>
+	<polyline class="st0" points="45.5,36 34.5,25 45.5,13 56.5,24 56.5,48 51.5,54 55.5,59 33.5,59 33.5,36 38.5,42 56.5,24 	"/>
+	<line class="st0" x1="62.5" y1="21" x2="62.5" y2="51"/>
+	<path class="st1" d="M27,28c-4.7,0-8.5,3.8-8.5,8.5S22.3,45,27,45"/>
+	<g>
+		<line class="st2" x1="4.5" y1="36" x2="13.5" y2="36"/>
+	</g>
+	<g>
+		<line class="st2" x1="10.7" y1="20.6" x2="17.8" y2="27.7"/>
+	</g>
+	<g>
+		<line class="st2" x1="10.7" y1="52.3" x2="17.7" y2="45.2"/>
+	</g>
+	<g>
+		<line class="st2" x1="26.5" y1="59" x2="26.5" y2="49"/>
+	</g>
+	<g>
+		<line class="st2" x1="26.5" y1="13" x2="26.5" y2="23"/>
+	</g>
+</g>
+<polygon class="st3" points="47.9,31.2 41.8,25.3 46.3,20.9 52.2,26.9 "/>
+<polygon class="st3" points="45,53.5 46.8,55.2 38.3,55.2 38.3,46.7 40.3,48.6 55.5,33.4 55.5,43 "/>
+<text transform="matrix(1 0 0 1 17.097 69.9999)" class="st4 st5 st6">ULTRA</text>
+</svg>

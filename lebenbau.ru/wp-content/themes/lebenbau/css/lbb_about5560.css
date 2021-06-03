@@ -1,0 +1,408 @@
+.bl311 .h1 {
+  font-size: 45px;
+  font-family: 'MyriadProBoldCond';
+}
+.bl311 h2 {
+    color: #323232;
+    font-style: italic;
+    font-weight: 300;
+    margin: 30px 0 30px;
+    line-height: 1.3;
+    font-family: 'BlissProlight', Tahoma, Sans-Serif;
+}
+.bl312 .col-md-4 {
+  max-width: 33%;
+  padding: 0 20px;
+}
+.bl312 h3,
+.bl312 .class_h3  {
+    color: #323232;
+    text-transform: uppercase;
+    max-width: 590px;
+    margin: 100px auto 30px;
+    line-height: 1.3;
+    font-size: 30px;
+}
+.bl312 h4 {
+    color: #323232;
+    text-transform: uppercase;
+    background-image: url(../../../uploads/line03.png);
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: 50px 3px;
+    padding: 0 0 20px;
+    font-size: 24px;
+    text-align:center;
+}
+.bl31 h4 .big,
+.bl31 .class_h4 .big {
+    color: #000;
+    font-family: 'MyriadProBoldCond';
+    display: block;
+    line-height: 0.9;
+    font-size: 135px;
+}
+.bl312 h5,
+.bl312 .class_h5 {
+    color: #323232;
+    margin: 15px 40px 90px;
+    line-height: 1.9;
+    font-size:16px;
+    font-weight: 400;
+}
+
+
+
+.bl313 {
+  height: 755px;
+  background-size: 100% auto;
+  background-position: center 0px;
+  background-repeat: no-repeat;
+  padding: 0 0 ;
+  background-image: url("../../../uploads/bl313.jpg");
+  position: relative;
+}
+.bl313 .h1 {
+    color: #fff;
+    font-family: 'MyriadProBoldCond';
+    font-size: 30px;
+    text-transform: uppercase;
+    padding: 340px 0 0;
+    line-height: 1.5 ;
+    height: 100%;
+    background-color: rgba(103, 51, 39, 0.5);
+    opacity: 1;
+    transition: 500ms ease;
+}
+
+.bl313 h4 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: #fff;
+    width: 100%;
+    height: 100%;
+    padding: 200px 26% 0;
+    line-height: 1.7;
+    letter-spacing: .5px;
+    text-align: left;
+    background-color: rgba(157, 83, 36, 0.9);
+    opacity: 0;
+    transition: 500ms ease;
+}
+
+.bl313:hover .h1 {
+    opacity: 0;
+    transition: 500ms ease;
+}
+
+.bl313:hover h4 {
+    opacity: 1;
+    transition: 500ms ease;
+}
+
+
+.bl31 {
+  text-align: center;
+  background-size: 1170px auto;
+  background-position: center 0px;
+  background-repeat: no-repeat;
+  padding: 0 0 ;
+  background-image: url("../../../uploads/bl31.jpg");
+  background-color: #fff;
+}
+
+.bl313 .like_h4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: #fff;
+  width: 100%;
+  height: 100%;
+  padding: 200px 26% 0;
+  text-align: left;
+  background-color: rgba(157, 83, 36, 0.9);
+  opacity: 0;
+  transition: 500ms ease;
+}
+.bl313:hover h1 {
+  opacity: 0;
+  transition: 500ms ease;
+}
+.bl313:hover .like_h4 {
+  opacity: 1;
+  transition: 500ms ease;
+}
+.bl311 .like_h2 {
+  color: #323232;
+  font-style: italic;
+  margin: 10px 0 30px;
+}
+.bl312 .like_h3 {
+  color: #323232;
+  font-family: 'MyriadProBoldCond';
+  text-transform: uppercase;
+  width: 590px;
+  margin: 100px auto 30px;
+  line-height: 1.3 ;
+}
+.bl314 .like_h3 {
+  color: #323232;
+  font-family: 'MyriadProBoldCond';
+  text-transform: uppercase;
+  text-align: left;
+  margin: 90px 0 0;
+}
+.bl315 .like_h3 {
+  color: #FFF;
+  font-family: 'MyriadProBoldCond';
+  text-transform: uppercase;
+  margin: 120px 0 0;
+  position: relative;
+  transition: 500ms ease;
+}
+.bl316 .like_h3 {
+  color: #323232;
+  font-family: 'MyriadProBoldCond';
+  text-transform: uppercase;
+  margin: 70px 0 35px;
+  line-height: 1.5 ;
+}
+.bl312 .like_h4 {
+  color: #323232;
+  font-family: 'HelveticaNeueCyrThin';
+  text-transform: uppercase;
+  background-image: url("../../../uploads/line03.png");
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  background-size: 50px 3px;
+  padding: 0 0 20px;
+}
+.bl314 .like_h4 {
+  color: #323232;
+  text-align: left;
+  margin: 40px 0 0;
+  line-height: 1.5 ;
+}
+.bl315 .like_h3:after {
+  content: url("../../../uploads/bl315.png");
+  position: absolute;
+  top: -44px;
+  left: 44%;
+  width: 8%;
+}
+.bl315 .like_h4 {
+  color: #FFF;
+  font-family: 'HelveticaNeueCyrThin';
+  text-align: left;
+  margin: 0 0 10px;
+  position: relative;
+}
+.bl315 .like_h4:after {
+  content: url("../../../uploads/list02.png");
+  position: absolute;
+  top: 00px;
+  left: -24px;
+}
+.bl312 .like_h5 {
+  color: #323232;
+  margin: 15px 40px 90px;
+  line-height: 1.9 
+}
+.bl31 .like_h6 {
+  color: #323232;
+  margin: 0 0 10px
+}
+.bl316 .like_h6 {
+  line-height: 1.5 ;
+  margin: 0 0 0 43px;
+  position: relative;
+}
+.bl316 .like_h6:after {
+  content: url("../../../uploads/list01.png");
+  left: -30px;
+  top: 0;
+  position: absolute;
+}
+.bl31 .like_h4 .big {
+  color: #000;
+  font-family: 'MyriadProBoldCond';
+  display: block;
+  line-height: 0.9 ;
+}
+
+.bl314 {
+     padding: 100px 25% 0;
+     text-align: left;
+}
+.bl315 {
+    padding: 40px 0 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+.bl315 h3 {
+    color: #FFF;
+    font-size: 22px;
+    text-transform: uppercase;
+    margin: 0;
+    position: relative;
+    transition: 500ms ease;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.bl315 h3:before {
+content: url(../../../uploads/bl315.png);
+    top: 0;
+    left: 0;
+    width: 22px;
+    margin-bottom:5px;
+}
+
+
+.bl315 .col-md-4 {
+  width: 31.33%;
+  margin: 0 1% 30px;
+  height: 220px;
+  background-size: 100% auto;
+  background-position: center 0px;
+  background-repeat: no-repeat;
+  transition: 500ms ease;
+  position: relative;
+}
+.bl315 .col-md-4:hover ul {
+  opacity: 1;
+}
+.bl315 .col-md-4:hover h3 {
+  opacity: 0;
+}
+.studio01 {
+  background-image: url("../../../uploads/studio01.jpg");
+}
+.studio02 {
+  background-image: url("../../../uploads/studio02.jpg");
+}
+.studio03 {
+  background-image: url("../../../uploads/studio03.jpg");
+}
+.studio04 {
+  background-image: url("../../../uploads/studio04.jpg");
+}
+.studio05 {
+  background-image: url("../../../uploads/studio05.jpg");
+}
+.studio06 {
+  background-image: url("../../../uploads/studio06.jpg");
+}
+.bl315 ul li:before {
+  display: none;
+}
+.bl315 ul {
+    position: absolute;
+    background-color: rgba(255, 125, 0, 0.9);
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    margin: 0;
+    padding: 50px 25% 0;
+    opacity: 0;
+    transition: 500ms ease;
+}
+.bl315 h4 {
+    color: #FFF;
+    text-align: left;
+    margin: 0 0 10px;
+    position: relative;
+    font-family: 'BlissPro-Light';
+    font-size: 15px;
+    line-height: 1.6;
+    text-transform: inherit;
+    font-weight: 400;
+}
+.bl315 h4:after {
+    content: url(../../../uploads/list02.png);
+    position: absolute;
+    top: 00px;
+    left: -24px;
+}
+.bl316 {
+  text-align: left;
+  padding: 0 25% ;
+}
+.bl316 ul>li::before {
+  display: none;
+}
+.bl316 h6 {
+    line-height: 1.5 !important;
+    margin: 0 0 35px 45px;
+    position: relative;
+    font-weight: 400;
+}
+
+.bl316 h6:after {
+    content: url(../../../uploads/list01.png);
+    left: -30px;
+    top: 0;
+    position: absolute;
+}
+
+
+@media (max-width: 980px) {
+  .bl311 .h1 {
+    font-size: 35px;
+  }
+  .bl311 h2 { 
+      font-size: 25px;
+    }
+    .bl312 h3 {
+      font-size: 20px;
+    }
+    .bl312-wrap {
+      flex-wrap:wrap;
+    }
+    .bl312 .col-md-4 {
+      max-width: 100%;
+      width: 100%;
+      padding: 0 20px;
+    }
+    .bl312 h5 {
+    margin: 15px 40px 10px;
+    }
+
+    .bl315 .col-md-4 {
+      width: 48%;
+    }
+
+}
+
+@media (max-width: 500px) {
+  .bl31 h4 .big {
+    font-size: 95px;
+  }
+  .bl313 h4 {
+        padding: 200px 15px 0;
+        font-size: 14px;
+  }
+  .bl313 {
+    background-size: cover;
+  }
+  .bl314 {
+    padding: 50px 5% 0;
+    text-align: left;
+  }
+  .bl315 .col-md-4 {
+    width: 100%;
+    height: 250px;
+    background-size: cover;
+  }
+  .bl316 {
+    text-align: left;
+    padding: 0px 5%;
+  }
+}

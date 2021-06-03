@@ -1,0 +1,125 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 03 Jun 2021 19:02:28 at https://belgorod.lebenbau.ru/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "ru, en, *" https://belgorod.lebenbau.ru/ -O1 "C:\Мои Web Сайты\сайт lebenbau" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:02:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://belgorod.lebenbau.ru/wp-content/cache/autoptimize/3/css/autoptimize_a41f529ce1b8cdac53ae0d105da6bda5.css
+19:02:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://belgorod.lebenbau.ru/wp-content/themes/lebenbau/js/jquery.min.js
+19:02:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://belgorod.lebenbau.ru/wp-content/uploads/headerV2/logo.svg
+19:02:34	Warning: 	HTML file (11125 bytes) retransferred due to lack of cache: https://belgorod.lebenbau.ru/about/
+19:02:34	Warning: 	HTML file (9899 bytes) retransferred due to lack of cache: https://belgorod.lebenbau.ru/akciyi/
+19:02:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://belgorod.lebenbau.ru/county/js/events.js
+19:02:34	Warning: 	HTML file (11713 bytes) retransferred due to lack of cache: https://belgorod.lebenbau.ru/reviews/
+19:02:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://belgorod.lebenbau.ru/wp-content/themes/lebenbau/js/fancybox3/jquery.fancybox.min.js
+19:02:36	Warning: 	HTML file (9859 bytes) retransferred due to lack of cache: https://belgorod.lebenbau.ru/warranty/
+19:02:36	Warning: 	HTML file (12699 bytes) retransferred due to lack of cache: https://belgorod.lebenbau.ru/faq/
+19:02:36	Warning: 	HTML file (12574 bytes) retransferred due to lack of cache: https://belgorod.lebenbau.ru/category/statyi/
+19:02:37	Warning: 	HTML file (13789 bytes) retransferred due to lack of cache: https://belgorod.lebenbau.ru/contact/
+19:02:38	Warning: 	HTML file (11809 bytes) retransferred due to lack of cache: https://belgorod.lebenbau.ru/catalog/
+19:02:39	Warning: 	HTML file (19274 bytes) retransferred due to lack of cache: https://belgorod.lebenbau.ru/cottages/
+19:02:39	Warning: 	HTML file (18717 bytes) retransferred due to lack of cache: https://belgorod.lebenbau.ru/oknavkvartiru/
+19:02:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://belgorod.lebenbau.ru/wp-content/themes/lebenbau/parts/catalogcat-items/catalogcat-items-v2.js
+19:02:40	Warning: 	HTML file (16359 bytes) retransferred due to lack of cache: https://belgorod.lebenbau.ru/balkons/
+19:02:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://belgorod.lebenbau.ru/wp-content/themes/lebenbau/parts/wat-to-needed/wat-to-needed.js
+19:02:41	Warning: 	HTML file (12763 bytes) retransferred due to lack of cache: https://belgorod.lebenbau.ru/laminacia/
+19:02:41	Warning: 	HTML file (12566 bytes) retransferred due to lack of cache: https://belgorod.lebenbau.ru/statyi/
+19:02:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://belgorod.lebenbau.ru/wp-content/themes/lebenbau/parts/slider-sertificates/sertificates.js
+19:02:42	Warning: 	HTML file (10291 bytes) retransferred due to lack of cache: https://belgorod.lebenbau.ru/zakaz/
+19:02:42	Warning: 	HTML file (10010 bytes) retransferred due to lack of cache: https://belgorod.lebenbau.ru/metering/
+19:02:42	Warning: 	HTML file (9616 bytes) retransferred due to lack of cache: https://belgorod.lebenbau.ru/pay/
+19:02:43	Warning: 	HTML file (14655 bytes) retransferred due to lack of cache: https://belgorod.lebenbau.ru/proizvodstvo/
+19:02:44	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://belgorod.lebenbau.ru/)
+19:02:44	Warning: 	HTML file (9628 bytes) retransferred due to lack of cache: https://belgorod.lebenbau.ru/delivery/
+19:02:45	Warning: 	HTML file (11238 bytes) retransferred due to lack of cache: https://belgorod.lebenbau.ru/ustanovka/
+19:02:48	Warning: 	HTML file (9136 bytes) retransferred due to lack of cache: https://belgorod.lebenbau.ru/decor/
+19:02:49	Warning: 	HTML file (9720 bytes) retransferred due to lack of cache: https://belgorod.lebenbau.ru/akciyi/more_windows_more_discount/
+19:02:50	Warning: 	HTML file (13181 bytes) retransferred due to lack of cache: https://belgorod.lebenbau.ru/akciyi/okna_v_rassrochku/
+19:02:54	Warning: 	HTML file (20218 bytes) retransferred due to lack of cache: https://belgorod.lebenbau.ru/catalog/simple/
+19:02:54	Warning: 	HTML file (20978 bytes) retransferred due to lack of cache: https://belgorod.lebenbau.ru/catalog/basic/
+19:02:54	Warning: 	HTML file (21056 bytes) retransferred due to lack of cache: https://belgorod.lebenbau.ru/catalog/optima/
+19:02:55	Warning: 	HTML file (21126 bytes) retransferred due to lack of cache: https://belgorod.lebenbau.ru/catalog/titan/
+19:02:56	Error: 	"Bad Request" (400) at link https://belgorod.lebenbau.ru/wp-admin/admin-ajax.php (from https://belgorod.lebenbau.ru/)
+19:03:32	Warning: 	HTML file (10826 bytes) retransferred due to lack of cache: https://belgorod.lebenbau.ru/remontokon/
+19:03:33	Warning: 	HTML file (8842 bytes) retransferred due to lack of cache: https://belgorod.lebenbau.ru/akciyi-belgorod/
+19:03:33	Warning: 	HTML file (9135 bytes) retransferred due to lack of cache: https://belgorod.lebenbau.ru/sitemap-html/
+19:03:34	Warning: 	HTML file (9924 bytes) retransferred due to lack of cache: https://belgorod.lebenbau.ru/catalog-belgorod/
+19:11:00	Error: 	"Not Found" (404) at link https://belgorod.lebenbau.ru/akciyi-belgorod/ (from https://belgorod.lebenbau.ru/)
+19:11:01	Error: 	"Not Found" (404) at link https://belgorod.lebenbau.ru/catalog-belgorod/ (from https://belgorod.lebenbau.ru/)
+19:11:06	Warning: 	Moved Permanently for https://belgorod.lebenbau.ru/?p=1546
+19:11:06	Warning: 	File has moved from https://belgorod.lebenbau.ru/?p=1546 to https://belgorod.lebenbau.ru/about/
+19:11:06	Warning: 	Moved Permanently for https://belgorod.lebenbau.ru/?p=1746
+19:11:06	Warning: 	File has moved from https://belgorod.lebenbau.ru/?p=1746 to https://belgorod.lebenbau.ru/reviews/
+19:11:06	Warning: 	Moved Permanently for https://belgorod.lebenbau.ru/?p=159
+19:11:06	Warning: 	File has moved from https://belgorod.lebenbau.ru/?p=159 to https://belgorod.lebenbau.ru/warranty/
+19:11:07	Warning: 	Moved Permanently for https://belgorod.lebenbau.ru/?p=1838
+19:11:07	Warning: 	File has moved from https://belgorod.lebenbau.ru/?p=1838 to https://belgorod.lebenbau.ru/faq/
+19:11:08	Error: 	"Error when decompressing" (-1) at link https://belgorod.lebenbau.ru/statyi/osobennosti-ostekleniya-balkonov-i-lodzhij/ (from https://belgorod.lebenbau.ru/category/statyi/)
+19:11:08	Error: 	"Error when decompressing" (-1) at link https://belgorod.lebenbau.ru/statyi/ustanovka-plastikovyh-okon-i-dverej-po-gostu/ (from https://belgorod.lebenbau.ru/category/statyi/)
+19:11:08	Error: 	"Error when decompressing" (-1) at link https://belgorod.lebenbau.ru/statyi/laminirovannye-pvh-konstrukcii/ (from https://belgorod.lebenbau.ru/category/statyi/)
+19:11:08	Error: 	"Error when decompressing" (-1) at link https://belgorod.lebenbau.ru/statyi/funkciya-klimat-kontrol-v-pvh-okne/ (from https://belgorod.lebenbau.ru/category/statyi/)
+19:11:08	Error: 	"Error when decompressing" (-1) at link https://belgorod.lebenbau.ru/statyi/rol-steklopaketa-v-plastikovom-okne/ (from https://belgorod.lebenbau.ru/category/statyi/)
+19:11:08	Error: 	"Error when decompressing" (-1) at link https://belgorod.lebenbau.ru/statyi/gotovye-plastikovye-okna-i-dveri/ (from https://belgorod.lebenbau.ru/category/statyi/)
+19:11:08	Error: 	"Error when decompressing" (-1) at link https://belgorod.lebenbau.ru/statyi/sredstva-zashchity-plastikovyh-okon-i-dverej-ot-vzloma/ (from https://belgorod.lebenbau.ru/category/statyi/)
+19:11:08	Error: 	"Error when decompressing" (-1) at link https://belgorod.lebenbau.ru/statyi/potrebitelskie-svojstva-okonnyh-konstrukcij-iz-pvh/ (from https://belgorod.lebenbau.ru/category/statyi/)
+19:11:08	Error: 	"Error when decompressing" (-1) at link https://belgorod.lebenbau.ru/statyi/kak-oformit-otkosy-pri-ustanovke-okna/ (from https://belgorod.lebenbau.ru/category/statyi/)
+19:11:08	Error: 	"Error when decompressing" (-1) at link https://belgorod.lebenbau.ru/statyi/razlichie-okonnyh-konstrukcij-klassov-a-b-c/ (from https://belgorod.lebenbau.ru/category/statyi/)
+19:11:09	Warning: 	Moved Permanently for https://belgorod.lebenbau.ru/?p=3176
+19:11:09	Warning: 	File has moved from https://belgorod.lebenbau.ru/?p=3176 to https://belgorod.lebenbau.ru/contact/
+19:11:10	Error: 	"Not Found" (404) at link https://belgorod.lebenbau.ru/wp-content/uploads/headerV2/logo01.png (from https://belgorod.lebenbau.ru/wp-content/uploads/headerV2/lebenbau-logo-hor.svg)
+19:11:10	Warning: 	Moved Permanently for https://belgorod.lebenbau.ru/?p=5225
+19:11:10	Warning: 	File has moved from https://belgorod.lebenbau.ru/?p=5225 to https://belgorod.lebenbau.ru/cottages/
+19:11:10	Warning: 	Moved Permanently for https://belgorod.lebenbau.ru/?p=4834
+19:11:10	Warning: 	File has moved from https://belgorod.lebenbau.ru/?p=4834 to https://belgorod.lebenbau.ru/oknavkvartiru/
+19:11:11	Warning: 	Moved Permanently for https://belgorod.lebenbau.ru/?p=5066
+19:11:11	Warning: 	File has moved from https://belgorod.lebenbau.ru/?p=5066 to https://belgorod.lebenbau.ru/balkons/
+19:11:11	Warning: 	Moved Permanently for https://belgorod.lebenbau.ru/?p=3294
+19:11:11	Warning: 	File has moved from https://belgorod.lebenbau.ru/?p=3294 to https://belgorod.lebenbau.ru/laminacia/
+19:11:11	Error: 	"Error when decompressing" (-1) at link https://belgorod.lebenbau.ru/wp-content/themes/lebenbau/parts/slider-inner-works/slider-inner-works.js (from https://belgorod.lebenbau.ru/laminacia/)
+19:11:13	Warning: 	Moved Permanently for https://belgorod.lebenbau.ru/?p=7470
+19:11:13	Warning: 	File has moved from https://belgorod.lebenbau.ru/?p=7470 to https://belgorod.lebenbau.ru/zakaz/
+19:11:13	Warning: 	Moved Permanently for https://belgorod.lebenbau.ru/?p=148
+19:11:13	Warning: 	File has moved from https://belgorod.lebenbau.ru/?p=148 to https://belgorod.lebenbau.ru/metering/
+19:11:13	Warning: 	Moved Permanently for https://belgorod.lebenbau.ru/?p=117
+19:11:13	Warning: 	File has moved from https://belgorod.lebenbau.ru/?p=117 to https://belgorod.lebenbau.ru/pay/
+19:11:14	Warning: 	Moved Permanently for https://belgorod.lebenbau.ru/?p=5047
+19:11:14	Warning: 	File has moved from https://belgorod.lebenbau.ru/?p=5047 to https://belgorod.lebenbau.ru/proizvodstvo/
+19:11:14	Warning: 	Moved Permanently for https://belgorod.lebenbau.ru/cvetnie-okna-laminacia/
+19:11:14	Warning: 	File has moved from https://belgorod.lebenbau.ru/cvetnie-okna-laminacia/ to /laminacia/
+19:11:14	Warning: 	Moved Permanently for https://belgorod.lebenbau.ru/ukrashenie-okon-i-dverei/
+19:11:14	Warning: 	File has moved from https://belgorod.lebenbau.ru/ukrashenie-okon-i-dverei/ to /decor/
+19:11:16	Warning: 	Moved Permanently for https://belgorod.lebenbau.ru/?p=150
+19:11:16	Warning: 	File has moved from https://belgorod.lebenbau.ru/?p=150 to https://belgorod.lebenbau.ru/delivery/
+19:11:16	Warning: 	Moved Permanently for https://belgorod.lebenbau.ru/?p=3937
+19:11:16	Warning: 	File has moved from https://belgorod.lebenbau.ru/?p=3937 to https://belgorod.lebenbau.ru/ustanovka/
+19:11:16	Warning: 	Moved Permanently for https://belgorod.lebenbau.ru/?p=1507
+19:11:16	Warning: 	File has moved from https://belgorod.lebenbau.ru/?p=1507 to https://belgorod.lebenbau.ru/decor/
+19:11:16	Warning: 	Moved Permanently for https://belgorod.lebenbau.ru/?p=5955
+19:11:16	Warning: 	File has moved from https://belgorod.lebenbau.ru/?p=5955 to https://belgorod.lebenbau.ru/akciyi/more_windows_more_discount/
+19:11:16	Warning: 	Moved Permanently for https://belgorod.lebenbau.ru/?p=5060
+19:11:16	Warning: 	File has moved from https://belgorod.lebenbau.ru/?p=5060 to https://belgorod.lebenbau.ru/akciyi/okna_v_rassrochku/
+19:11:17	Warning: 	Moved Permanently for https://belgorod.lebenbau.ru/?p=5972
+19:11:17	Warning: 	File has moved from https://belgorod.lebenbau.ru/?p=5972 to https://belgorod.lebenbau.ru/catalog/simple/
+19:11:17	Error: 	"Error when decompressing" (-1) at link https://belgorod.lebenbau.ru/wp-content/themes/lebenbau/parts/laminate/laminate.js (from https://belgorod.lebenbau.ru/catalog/simple/)
+19:11:17	Warning: 	Moved Permanently for https://belgorod.lebenbau.ru/?p=5974
+19:11:17	Warning: 	File has moved from https://belgorod.lebenbau.ru/?p=5974 to https://belgorod.lebenbau.ru/catalog/basic/
+19:11:17	Warning: 	Moved Permanently for https://belgorod.lebenbau.ru/?p=5976
+19:11:17	Warning: 	File has moved from https://belgorod.lebenbau.ru/?p=5976 to https://belgorod.lebenbau.ru/catalog/optima/
+19:11:17	Warning: 	Moved Permanently for https://belgorod.lebenbau.ru/?p=5978
+19:11:17	Warning: 	File has moved from https://belgorod.lebenbau.ru/?p=5978 to https://belgorod.lebenbau.ru/catalog/titan/
+19:11:17	Warning: 	Moved Permanently for https://belgorod.lebenbau.ru/?p=3955
+19:11:17	Warning: 	File has moved from https://belgorod.lebenbau.ru/?p=3955 to https://belgorod.lebenbau.ru/remontokon/
+19:11:17	Warning: 	Moved Permanently for https://belgorod.lebenbau.ru/?p=6981
+19:11:17	Warning: 	File has moved from https://belgorod.lebenbau.ru/?p=6981 to https://belgorod.lebenbau.ru/sitemap-html/
+19:11:17	Error: 	"Error when decompressing" (-1) at link https://belgorod.lebenbau.ru/zakaz-2/ (from https://belgorod.lebenbau.ru/sitemap-html/)
+19:11:17	Error: 	"Error when decompressing" (-1) at link https://belgorod.lebenbau.ru/thanks_page/ (from https://belgorod.lebenbau.ru/sitemap-html/)
+19:11:17	Error: 	"Not Found" (404) at link https://belgorod.lebenbau.ru/POST (from https://cdn.bitrix24.ru/b11768640/crm/site_button/loader_5_24e9od.js)
+19:11:17	Error: 	"Not Found" (404) at link belgorod.lebenbau.ru/wp-content/themes/lebenbau/css/mCSB_buttons.png (from https://belgorod.lebenbau.ru/wp-content/cache/autoptimize/3/css/autoptimize_f2a0fac915a9b2429934770b88e6ee86.css)
+19:11:17	Error: 	"Not Found" (404) at link https://belgorod.lebenbau.ru/contact/cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js (from https://belgorod.lebenbau.ru/wp-content/themes/lebenbau/js/scrollbar.js)
+19:11:17	Error: 	"Not Found" (404) at link belgorod.lebenbau.ru/wp-content/themes/lebenbau/css/fotorama.png (from https://belgorod.lebenbau.ru/wp-content/cache/autoptimize/3/css/autoptimize_907bc3a3fba3e8c5477b7549201c6825.css)
+19:11:17	Error: 	"Error when decompressing" (-1) at link https://belgorod.lebenbau.ru/swfobject/swfkrpano.js (from https://belgorod.lebenbau.ru/virtualtour.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 50 seconds : 569 links scanned, 517 files written (36913331 bytes overall), 449 files updated [29720705 bytes received at 56076 bytes/sec], 2635494 bytes transferred using HTTP compression in 106 files, ratio 27%, 7.7 requests per connection
+(24 errors, 90 warnings, 0 messages)

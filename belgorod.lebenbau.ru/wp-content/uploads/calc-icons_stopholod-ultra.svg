@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 70 70" style="enable-background:new 0 0 70 70;" xml:space="preserve">
+<style type="text/css">
+	@font-face {
+    font-family: 'MyriadProBoldCond';
+    font-display: swap;
+    src: url('https://lebenbau.ru/wp-content/themes/lebenbau/fonts/MyriadProBoldCond.eot');
+    src: url('https://lebenbau.ru/wp-content/themes/lebenbau/fonts/MyriadProBoldCond.eot') format('embedded-opentype'), url('https://lebenbau.ru/wp-content/themes/lebenbau/fonts/MyriadProBoldCond.woff2') format('woff2'), url('https://lebenbau.ru/wp-content/themes/lebenbau/fonts/MyriadProBoldCond.woff') format('woff'), url('https://lebenbau.ru/wp-content/themes/lebenbau/fonts/MyriadProBoldCond.ttf') format('truetype'), url('https://lebenbau.ru/wp-content/themes/lebenbau/fonts/MyriadProBoldCond.svg#MyriadProBoldCond') format('svg');
+	}
+	.st0{fill:#FFFFFF;stroke:#000333;stroke-width:2;stroke-miterlimit:10;}
+	.st1{fill:#1056C6;}
+	.st2{fill:none;stroke:#000333;stroke-width:2;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#1056C6;stroke-width:2;stroke-miterlimit:10;}
+	.st4{fill:#000333;}
+
+	.st5{font-family:MyriadProBoldCond,Arial,sans-serif;font-weight:900;}
+	.st6{font-size:9.9253px;}
+</style>
+<title>calc-icons_stopholod-ultra</title>
+<g>
+	<polyline class="st0" points="44.8,34.6 33.8,23.6 45.6,11.9 56.8,22.9 56.8,47.6 51.3,53.1 56.1,58 33.3,58.1 33.3,35.1 
+		38.8,40.6 56.8,22.9 	"/>
+	<polygon class="st1" points="47.7,30.5 41.1,24 45.5,19.6 52.1,26.1 	"/>
+	<polygon class="st1" points="44.3,52.2 46,53.9 37.5,53.9 37.5,45.4 39.5,47.3 55.8,31 55.8,40.6 	"/>
+	<line class="st2" x1="62" y1="20.5" x2="62" y2="50.5"/>
+	<path class="st3" d="M26.5,27.5c-4.7,0-8.5,3.8-8.5,8.5s3.8,8.5,8.5,8.5"/>
+	<g>
+		<line class="st3" x1="4" y1="35.5" x2="19" y2="35.5"/>
+		<polyline class="st3" points="11,39.5 13,35.5 11,31.5 		"/>
+		<polyline class="st3" points="6,39.5 8.7,35.5 6,31.5 		"/>
+	</g>
+	<g>
+		<line class="st3" x1="10.2" y1="20.1" x2="20.8" y2="30.8"/>
+		<polyline class="st3" points="12.3,27.9 16.6,26.5 18,22.3 		"/>
+		<polyline class="st3" points="8.8,24.4 13.5,23.5 14.4,18.7 		"/>
+	</g>
+	<g>
+		<line class="st3" x1="10.2" y1="51.8" x2="20.8" y2="41.1"/>
+		<polyline class="st3" points="18,49.6 16.6,45.4 12.3,44 		"/>
+		<polyline class="st3" points="14.4,53.2 13.5,48.4 8.8,47.5 		"/>
+	</g>
+	<g>
+		<line class="st3" x1="26" y1="58.5" x2="26" y2="43.5"/>
+		<line class="st3" x1="26" y1="49.5" x2="22" y2="51.5"/>
+		<line class="st3" x1="26" y1="53.8" x2="22" y2="56.5"/>
+	</g>
+	<g>
+		<line class="st3" x1="26" y1="12.5" x2="26" y2="28.5"/>
+		<line class="st3" x1="22" y1="19.5" x2="26" y2="21.5"/>
+		<line class="st3" x1="22" y1="14.5" x2="26" y2="17.1"/>
+	</g>
+	<path class="st1" d="M52.2,26.3"/>
+</g>
+<text transform="matrix(1 0 0 1 16.9877 69.9997)" class="st4 st5 st6">ULTRA</text>
+</svg>
